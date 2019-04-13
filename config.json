@@ -49,7 +49,7 @@
         "minimumPayment": 5,
         "maxBlocksPerPayment": 20,
         "daemon": {
-            "host": "172.19.227.192",
+            "host": "47.103.80.31",
             "port": 6532,
             "user": "user2259748699",
             "password": "passc90169f68f174fa8da9676c3bcff4b1cc464791fdde00a7f28010ad072d3b4bcf0"
@@ -84,7 +84,7 @@
     "_comment_poolId": "use it for region identification: eu, us, asia or keep default if you have one stratum instance for one coin",
 
     "daemons": [{
-        "host": "172.19.227.192",
+        "host": "47.103.80.31",
         "port": 6532,
         "user": "user2259748699",
         "password": "passc90169f68f174fa8da9676c3bcff4b1cc464791fdde00a7f28010ad072d3b4bcf0"
