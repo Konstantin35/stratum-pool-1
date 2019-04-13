@@ -1,0 +1,3 @@
+verushash-node
+-----------------------
+Implementation of the VerushHash hash algorithm as a node.js module
