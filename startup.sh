@@ -1,0 +1,1 @@
+nohup node app.js >> log/output.log 2>&1 &
