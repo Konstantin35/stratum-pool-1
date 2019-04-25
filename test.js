@@ -13,16 +13,16 @@ var subsidy = {
 }
 
 var util = require('./lib/util.js');
-console.log(util.packUInt32LE(1556219429).toString('hex'))
-console.log(util.packUInt32LE(1556219483).toString('hex'))
-console.log(util.packUInt32LE(1556219516).toString('hex'))
-console.log(util.packUInt32LE(1556219523).toString('hex'))
-console.log(util.packUInt32LE(1556219539).toString('hex'))
 console.log(util.packUInt32LE(1556219652).toString('hex'))
-console.log(util.packUInt32LE(1556219701).toString('hex'))
-console.log(util.packUInt32LE(1556219719).toString('hex'))
-console.log(util.packUInt32LE(1556219750).toString('hex'))
-console.log(util.packUInt32LE(1556219754).toString('hex'))
+// hexconsole.log(util.packUInt32LE(1556219483).toString('hex'))
+// console.log(util.packUInt32LE(1556219516).toString('hex'))
+// console.log(util.packUInt32LE(1556219523).toString('hex'))
+// console.log(util.packUInt32LE(1556219539).toString('hex'))
+// console.log(util.packUInt32LE(1556219652).toString('hex'))
+// console.log(util.packUInt32LE(1556219701).toString('hex'))
+// console.log(util.packUInt32LE(1556219719).toString('hex'))
+// console.log(util.packUInt32LE(1556219750).toString('hex'))
+// console.log(util.packUInt32LE(1556219754).toString('hex'))
 // console.log(util.reverseBuffer(new Buffer('9df68b131d541456a68b5e44286c06add3c84a6d455bbfb7982bf716fdf881dd', 'hex')).toString('hex'))
 //
 //
