@@ -2,5 +2,6 @@
 .idea
 
 
+pid
 node_modules
 log
