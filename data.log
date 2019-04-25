@@ -534,6 +534,14 @@
      user: 'user2259748699',
      password: 'passc90169f68f174fa8da9676c3bcff4b1cc464791fdde00a7f28010ad072d3b4bcf0',
      index: 0 } }
+
+ñó:oKT»¾EçÀ¿@2øþ/iÖÀ¨	k"¸á*²òÂcª PQãt{"id":null,"method":"mining.notify","params":["d28a","00000020",
+"dd81f8fd16f72b98b7bf5b456d4ac8d3ad066c28445e8ba65614541d138bf69d",
+"03d96903f026f111a19f2bbd7c51e8fe68647ae3aa1626783cc997a47b74ed3c",
+"a319a17c5d89eb321914ff26c3b536eaf7ece550b8b99cd2d315a5eba07f7f0d",
+"ca09a5e510720c00","26d4b25c","5b22071d",
+"2e34e7abe5308342d0b5dab31cad475b0cba7a53c3bf990e3ad36a12d9800d78",
+"ff046dbd72473ffff293b15c761c2378178ff788c03c3dd0f38ead7f44ef948c",true]}
 { error: null,
   response:
    { capabilities: [ 'proposal' ],
