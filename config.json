@@ -86,8 +86,8 @@
     "daemons": [{
         "host": "47.105.192.84",
         "port": 6532,
-        "user": "user2259748699",
-        "password": "passc90169f68f174fa8da9676c3bcff4b1cc464791fdde00a7f28010ad072d3b4bcf0"
+        "user": "user5259748699",
+        "password": "passc90169f68f174fa8da9676c3bcff4b1cc464791fdde00a7f28010ad072d3b4wcf0"
     }],
 
     "p2p": {
